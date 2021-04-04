@@ -1,4 +1,4 @@
-<img src="./preview.jpg">
+<img src="./preview.png">
 <br/>
 # Single Price grid Component
 
