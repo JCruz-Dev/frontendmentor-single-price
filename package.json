@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "sass": "^1.32.8"
+  },
+  "name": "frontendmentor-single-price",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCruz-Dev/frontendmentor-single-price.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JCruz-Dev/frontendmentor-single-price/issues"
+  },
+  "homepage": "https://github.com/JCruz-Dev/frontendmentor-single-price#readme",
+  "description": ""
+}
